@@ -1,0 +1,5 @@
+print(type(1))
+print(type(2.4))
+print(type("Lucas"))
+print(type(True))
+print(type([1,2,3]))

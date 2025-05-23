@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Adidas",
+        "categoria": "Tenis",
+        "preco": 299.99
+    },
+    {
+        "nome": "Nike",
+        "categoria": "Tenis",
+        "preco": 499.9
+    },
+    {
+        "nome": "Puma",
+        "categoria": "Tenis",
+        "preco": 255.9
+    }
+]
